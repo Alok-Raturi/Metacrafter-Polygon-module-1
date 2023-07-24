@@ -30,8 +30,8 @@ Metacrafter Polygon advanced Module 1
   ![image](https://github.com/Alok-Raturi/Metacrafter-Polygon-module-1/assets/110283609/fac71d7b-577a-4a10-9abb-caf5112ed92c)
 
 
-### ![Polyscan link](https://mumbai.polygonscan.com/address/0xae61aa827e27f8ab79c5d73d0b5958f8b5779876#tokentxnsErc721)
-### ![Etherscan link](https://goerli.etherscan.io/address/0xAE61aa827E27f8aB79c5D73d0b5958f8B5779876)
+### [Polyscan link](https://mumbai.polygonscan.com/address/0xae61aa827e27f8ab79c5d73d0b5958f8b5779876#tokentxnsErc721)
+### [Etherscan link](https://goerli.etherscan.io/address/0xAE61aa827E27f8aB79c5D73d0b5958f8B5779876)
 
 
 
